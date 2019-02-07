@@ -1,1 +1,1 @@
-# Archivo leeme
+# archivo de lectura obligatoria
